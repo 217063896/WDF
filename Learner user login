@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Learner Login</title>
+<link rel="stylesheet" type="text/css" href="Styling.css" />
+<script src="js/script.js"></script>
+</head>
+<header>
+All rights reserved WDF Group 1: New Beginnings Highschool
+</header>
+<body>
+<h1>Welcome to your User Login</h1>
+<form>
+Your Details
+<input type = "text" name="Username" placeholder="Write your Username.." />
+<input type = "password" name="pwd" placeholder="Write your password.." />
+<input type = "text" name="email" placeholder= "Write your email" />
+<input type = "text" name ="First name" placeholder= "Write your First name" />
+<input type = "text" name ="Last name" placeholder= "Write your Last name" />
+
+<button onclick="revealMessage()">Submit</button>
+<p id="hiddenMessage" style="display:none">You are logged in</p>
+
+</form>
+
+<h5>If you have finished and wish to return to the Homepage click the link below</h5>
+<a href="Schoolhomepage.html">
+     click link to go to Home page.
+</a>
+
+<footer>
+All rights reserved WDF Group 1: New Beginnings Highschool
+</footer>
+
+</body>
+</html>
