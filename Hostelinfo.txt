@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hostel information</title>
+<link rel="stylesheet" type="text/css" href="Styling.css" />
+<style>
+p {
+text-align:center;
+}
+</style>
+</head>
+<header>
+All rights reserved WDF Group 1: New Beginnings Highschool
+</header>
+<body>
+<h1>Hostel Information</h1>
+<img src="Hostel.jpg" alt="Hostel" />
+<p>
+Welcome to the New Beginnings Highschool's Hostel page. The goal of this page is to provide additional clarity regarding our schools hostel.
+This page will cover the following:
+</p>
+<ul>
+<li>Hostel conditions</li>
+<li>Hostel fee</li>
+<li>Hostel Staff</li>
+<li>Other related matters</li>
+</ul>
+<h2>Hostel conditions</h2>
+<p>
+The Hostel like the school is newly built, constructed in 2018, it consists of a male and female wing with their respective bathrooms.
+The North wing of the Hostel is allocated for the female learners, whilst the South wing is allocatedfor the male learners.
+There are approximately 50 rooms per building excluding the bathrooms of which there are 4 per building each sporting 4 tiolets, 4 basins and for the male bathroom 3 urnals.
+Showering areas are also designated as per gender, 2 per building with 6 showers.
+Each bedroom is divided into 6 cubicles large enough for a single bed, night stand and study table. See pictures below.
+The hostel has a large Dinning Hall/ cafeteria where breakfast, lunch and dinner is prepared daily for the hostel inhabitants.
+A study hall is also present and outfitted with enough seating and privacy so the individual can study in peace.
+</p>
+<img src="bathroom.jpg" alt="bathroom" />
+<img src="basins.jpg" alt="basins" />
+<img src="Urnals.jpg" alt="Urnals" />
+<img src="Hostelroom.jpg" alt="Hostelroom" />
+<h2>What each learner can expect in the hostel</h2>
+
+<p>
+We strive to make hostel life as comfortable, academic and enjoyable as we possible can. Students can expect the following:
+</p>
+<ul>
+<li>Daily meals</li>
+<li>Reasonably sized living space</li>
+<li>Hands on learning</li>
+<li>Exercise routines (optional)</li>
+<li>Prayer hour (optional)</li>
+<li>Entertainment - TV's, designated WiFi areas</li>
+</ul>
+
+<h2>The General Rules of the Hostel</h2>
+<p>
+However with all these freedoms there must be limitations to ensure order. The following list depicts all the rules that every hostilite is expected to follow and abide by. Going against said rules, without
+valid reason or if given permission to or instructed to do so, will result in punishement and in severe or repeated offenses can result
+in suspension or expulsion.
+</p>
+<ol>
+<li>Possession of firearm or dangerous weapon</li>
+<li>Possession of alcohol or drugs</li>
+<li>Selling or distributing of alcohol or drugs</li>
+<li>Stealing of hostel staff or learner's possessions or any individual outside the hostel's posessions</li>
+<li>Harassing or assualting of hostel staff or learners or any individual outside the hostel</li>
+<li>Destruction of hostel or school property</li>
+<li>Disobeying hostel study hours</li>
+<li>And further more to be communicated</li>
+</ol>
+
+<h2>The Hostel Fees</h2>
+<p>
+Due to the advancements of the hostel as well as yearly upkeep the hostel fees might seem pretty steep, however we assure you, you get your money's worth.
+As per statement the annual sum is estimated at N$ 24 000.00
+The monthly fee is approximately N$ 2000.00, however payment plans (every 2 months, etc.)can be arranged. We allow the payments to be made every: 
+</p>
+
+<ul>
+<li>Monthly</li>
+<li>Every 2 Months</li>
+<li>Every 4 Months</li>
+<li>or on a yearly basis</li>
+</ul>
+
+<h2>The Hostel Staff</h2>
+<p>
+We pride ourselves with our expert staff. Years of experience and big smiles to boot. 
+</p>
+<table>
+<caption>Hostel Staff and profession</caption>
+<tr>
+<th>Staff Name</th>
+<th>Profession</th>
+</tr>
+
+<tr>
+<td>Markus Esterhuizen</td>
+<td>Hostel Manager</td>
+</tr>
+
+<tr>
+<td>Maria Shilongo</td>
+<td>Cleaner</td>
+</tr>
+
+<tr>
+<td>Maxwell Van Wyk</td>
+<td>Gardner and cleaner</td>
+</tr>
+
+<tr>
+<td>Ester Huafiku</td>
+<td>Cleaner</td>
+</tr>
+
+<tr>
+<td>Martha Nilenge</td>
+<td>Head Chef</td>
+</tr>
+
+<tr>
+<td>Tiami Nilenge</td>
+<td>Chef</td>
+</tr>
+
+<tr>
+<td>Timothy Bracht</td>
+<td>Chef</td>
+</tr>
+
+<tr>
+<td>Hendrik Nangolo</td>
+<td>Electrician/ handiman</td>
+</tr>
+
+<tr>
+<td>Ester Diergaardt</td>
+<td>Cleaner</td>
+</tr>
+
+<tr>
+<td>Johnathan Swartz</td>
+<td>Handiman</td>
+</tr>
+
+</table>
+<p>
+Other matters of importance will be discussed we admitted into the hostel.
+If you are intersted in transfering to our school be sure to fill the application form and if you are interested in applying for a spot in the hostel
+in the box allocated for hostel application please type yes. There will be a link below to take you to the registration/ application form.
+</p>
+
+
+<h5>If you are interested in signing up for a spot in the school and apply for a spot in the hostel please click the link below</h5>
+<a href="Registrationform.html">
+     click link to go to application tab.
+</a>
+
+<h5>Or if you wish to return to the home page click the link below</h5>
+<a href="Schoolhomepage.html">
+     click link to return to Home page.
+</a>
+
+
+<footer>
+All rights reserved WDF Group 1: New Beginnings Highschool
+</footer>
+</body>
+
+</html>
