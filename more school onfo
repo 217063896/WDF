@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>New Beginnings Highschool</title>
+<link rel="stylesheet" type="text/css" href="Styling.css" />
+</head>
+<header>
+All rights reserved WDF Group 1: New Beginnings Highschool
+</header>
+<body>
+<h1>Welcome to New Beginnings Highschool</h1>
+<img src="School image.jpg" alt="School image" />
+<p>
+Welcome to New Beginnings Highschool, a newly developed highschool, one could say the new kid on the academic block.
+We might be new, but by no means does that means does that label us as incapable. We strive to reach for the pinnacle of exellence
+and will not stop until we have achieved our goal as well as aiding our students, your children, in reaching and achieving their goals.
+For it is our mission and responsibility as the first step towards introducing and preparing our students for adulthood to ensure they reach
+their desired goals and live a balanced, enlightened and prosperous life.
+for our Motto is: to educate, enlighten and enrich the young mind. We do not just strive for academic prowess but also leading a prosperous life. 
+</p>
+
+<img src="gymnasium.jpg" alt="gymnasium" />
+
+<h5>If you need more information regarding the school click the link below</h5>
+<a href="Moreinfo.html">
+     click link to go to info tab.
+</a>
+<h5>To log in as a learner of the school click the link down below</h5>
+<a href="Learnerlogin.html">
+     click link to go to the login section if you are a learner at the school.
+</a>
+<h5>If you wish to skip past the information section and apply for a spot as a new learner click the link below</h5>
+<a href="Registrationform.html">
+     click link to go to Registration form
+</a>
+<h5>If you wish to learn more regarding the hostel click the link below</h5>
+<a href="Hostelinfo.html">
+     click link to go to the hostel tab
+</a>
+
+<h5>If you are interested in looking at the subjects we provide please click the link below</h5>
+<a href="Subjectsprovided.html">
+     click link to go to subjects tab.
+</a>
+
+
+<footer>
+All rights reserved WDF Group 1 : New Beginnings Highschool
+</footer>
+</body>
+</html>
